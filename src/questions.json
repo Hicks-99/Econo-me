@@ -1,0 +1,420 @@
+[
+    {
+        "question": "Welche Maßnahme muss der Bund zur Erreichung der Preisniveaustabilität umsetzen?",
+        "answer": [
+            {
+                "text": "In Bauprojekte investieren",
+                "description": "Durch die Investition in verschiedene Bauprojekte lässt sich der Verlauf der Konjunktur beeinflussen. Mögliche Bauprojekte sind zum Beispiel auch Straßen oder Autobahnen. ",
+                "solution_correct": "Staaten können die Konjunktur auch ohne eine entsprechende Geldpolitik ankurbeln. So hat der Staat zum Beispiel die Möglichkeit, neue Bauprojekte zu unterstützen. Auf diese Weise gibt es eine höhere Beschäftigung und dadurch wiederum höheren Konsum sowie höhere Steuereinnahmen.",
+                "solution_false": "Investitionen in verschiedene Bauprojekte sind vor allem bei einer Deflation effektiv. Auf diese Weise gibt es eine höhere Beschäftigung und dadurch wiederum höheren Konsum sowie höhere Steuereinnahmen.",
+                "interval_start": -100,
+                "interval_end": 0,
+                "value_correct": 0.5,
+                "value_false": 1,
+                "game_over": false
+            },
+            {
+                "text": "Lohnstopp",
+                "description": "Durch den staatlichen Zwangseingriff auf den Arbeitsmarkt kann der Staat die Löhne auf einem bestimmten Niveau einfrieren.",
+                "solution_correct": "Da der Staat einen Zwangseingriff auf dem Arbeitsmarkt durchführt und das Niveau der Löhne einfriert verringert sich die Inflationsrate.",
+                "solution_false": "Der staatliche Zwangseingriff auf dem Arbeitsmarkt ist hauptsächlich bei einer Inflation effizient. Während einer Deflation sinkt dadurch die Inflationsrate umso mehr.",
+                "interval_start": 2,
+                "interval_end": 100,
+                "value_correct": -0.4,
+                "value_false": -0.7,
+                "game_over": false
+            },
+            {
+                "text": "Import/Export mit anderen Ländern stoppen",
+                "description": "Durch das Stoppen des Imports/Exports mit anderen Ländern wird jeglicher Kontakt mit den Handelspartnern abgebrochen.",
+                "solution_correct": "",
+                "solution_false": "Falsch! Der Handel mit anderen Ländern ist essenziell wichtig für die Wirtschaft des eigenen Staates. Wenn kein Handel existiert, bricht die Wirtschaft zusammen.",
+                "interval_start": 0,
+                "interval_end": 0,
+                "value_correct": 0,
+                "value_false": 0,
+                "game_over": true
+            }
+        ]
+    },
+    {
+        "question": "Welche Maßnahme muss der Bund zur Erreichung der Preisniveaustabilität umsetzen?",
+        "answer": [
+            {
+                "text": "Steuereinnahmen senken",
+                "description": "Durch die Fiskalpolitik kann der Staat Steuererleichterungen durchführen.",
+                "solution_correct": "Da die Bürger oder Unternehmen mehr Geld zur Verfügung haben, können sie mehr davon ausgeben und so mehr Steuereinnahmen für den Staat generieren.",
+                "solution_false": "Steuersenkungen sind nur während einer Deflation effektiv. Da die Bürger oder Unternehmen mehr Geld zur Verfügung haben, können sie mehr davon ausgeben und so Steuereinnahmen für den Staat generieren.",
+                "interval_start": -100,
+                "interval_end": 0,
+                "value_correct": 0.5,
+                "value_false": 0.9,
+                "game_over": false
+            },
+            {
+                "text": "Ausgaben für die öffentlichen Haushalte senken",
+                "description": "Hier gibt der Staat weniger für öffentliche Haushalte (Sicherheit, Bildung, etc.) aus und beeinflusst somit den konjunkturverlauf.",
+                "solution_correct": "Dadurch, dass der Staat weniger für öffentliche Haushalte ausgibt, hat er mehr Geld, um gegen die Inflation vorzugehen. So kann beispielsweise mehr Geld in Entlastungspakete investiert werden.",
+                "solution_false": "Das Senken der Ausgaben für öffentliche Haushalte ist während einer Deflation nicht effektiv. Dadurch, dass der Staat weniger für öffentliche Haushalte ausgibt, hat er mehr Geld, um gegen die Inflation vorzugehen. So kann beispielsweise mehr Geld in Entlastungspakete investiert werden.",
+                "interval_start": 2,
+                "interval_end": 100,
+                "value_correct": -0.6,
+                "value_false": -0.1,
+                "game_over": false
+            },
+            {
+                "text": "Finanzminister absetzen",
+                "description": "Wenn der Finanzminister abgesetzt wird, wird dieser durch eine neue Person ersetzt.",
+                "solution_correct": "",
+                "solution_false": "Das Absetzen des Finanzministers ist während einer Finanzkrise eine sehr schlechte Maßnahme gegen eine Inflation/Deflation.",
+                "interval_start": 100,
+                "interval_end": -100,
+                "value_correct": 0,
+                "value_false": 0.5,
+                "game_over": false
+            }
+        ]
+    },
+    {
+        "question": "Welche Maßnahme muss der Bund zur Erreichung der Preisniveaustabilität umsetzen?",
+        "answer": [
+            {
+                "text": "Sparpolitik betreiben",
+                "description": "Wenn der Staat Sparpolitik betreibt, wird darauf abgezielt Verbrauch und Staatskosten zu beschränken.",
+                "solution_correct": "Während einer Inflation Staatsausgaben zu beschränken ist sehr effizient. Der Staat hat somit mehr Möglichkeiten der Inflation entgegenzuwirken.",
+                "solution_false": "Während einer Deflation Staatsausgaben zu beschränken ist kontraproduktiv. Dort müsste der Staat mehr Geld ausgeben, um der Deflation entgegenzuwirken.",
+                "interval_start": 2,
+                "interval_end": 100,
+                "value_correct": -0.8,
+                "value_false": -1,
+                "game_over": false
+            },
+            {
+                "text": "Steuereinnahmen senken",
+                "description": "Durch die Fiskalpolitik kann der Staat Steuererleichterungen durchführen.",
+                "solution_correct": "Da die Bürger oder Unternehmen mehr Geld zur Verfügung haben, können sie mehr davon ausgeben und so mehr Steuereinnahmen für den Staat generieren.",
+                "solution_false": "Steuersenkungen sind nur während einer Deflation effektiv. Da die Bürger oder Unternehmen mehr Geld zur Verfügung haben, können sie mehr davon ausgeben und so Steuereinnahmen für den Staat generieren.",
+                "interval_start": -100,
+                "interval_end": 0,
+                "value_correct": 0.6,
+                "value_false": 1.2,
+                "game_over": false
+            },
+            {
+                "text": "Anarchie ausrufen",
+                "description": "Wenn eine Anarchie ausgerufen wird, werden auf jegliche Staatsformen und Gesetze verzichtet und jeder Bürger ist auf sich allein gestellt.",
+                "solution_correct": "",
+                "solution_false": "Falsch! Eine Anarchie auszurufen ist keine Lösung. Es gäbe weder Ordnung noch Struktur, was für den Konjunkturzyklus und die generelle Wirtschaft katastrophal wäre.",
+                "interval_start": 0,
+                "interval_end": 0,
+                "value_correct": 0,
+                "value_false": 0,
+                "game_over": true
+            }
+        ]
+    },
+    {
+        "question": "Welche Maßnahme muss das EZB-Direktorium zur Erreichung der Preisniveaustabilität umsetzen?",
+        "answer": [
+            {
+                "text": "Anleihenkauf Mittels Quantitative Easing",
+                "description": "Das Quantitative Easing Program ist ein Anleihenkauf-Programm der EZB, welches Staatsanleihen innerhalb der Währungsunion ankauft.",
+                "solution_correct": "Ein Anleihenkauf kann, wenn es großflächig eingesetzt wird, zur allgemeinen Konjunktur Steigerung des Euroraums, besonders in einer Deflation genutzt werden. Allerdings fördert ein großflächiger Anleihenkauf in der Folge vorhandenen großen Geldmenge, eine monetäre Inflation und hat somit einen negativen Effekt auf die Inflationsrate.",
+                "solution_false": "Ein Anleihenkauf kann, wenn es großflächig eingesetzt wird, zur allgemeinen Konjunktur Steigerung des Euroraums, besonders in einer Deflation genutzt werden. Allerdings fördert ein großflächiger Anleihenkauf in der Folge vorhandenen großen Geldmenge, eine monetäre Inflation und hat somit einen negativen Effekt auf die Inflationsrate.",
+                "interval_start": -100,
+                "interval_end": 2,
+                "value_correct": 0.5,
+                "value_false": 1.5,
+                "game_over": false
+            },
+            {
+                "text": "Leitzins auf 2,5% erhöhen",
+                "description": "Die EZB hat seit dem 21.12.2022 den Leitzins auf 2,5% angehoben, was einem Prozess, der korrelativ zur Inflation verlief vorherging. Der Leitzins am Ende des Jahres 2022 ist das Resultat einer moderaten Handhabung und Abschätzung von Leitzins-Inflation Verhältnis, daher konnte die EZB infolgedessen die Inflation unter Kontrolle bringen bzw. eindämmen.",
+                "solution_correct": "Den Leitzins auf 2,5% zu setzen ist im Falle einer niedrigen Inflationsrate ratsam, während bei einer Deflation der gegenteilige Effekt eintritt und die Deflation verstärkt.",
+                "solution_false": "Den Leitzins auf 2,5% zu setzen ist im Falle einer niedrigen Inflationsrate ratsam, während bei einer Deflation der gegenteilige Effekt eintritt und die Deflation verstärkt.",
+                "interval_start": 2,
+                "interval_end": 100,
+                "value_correct": -0.3,
+                "value_false": -1,
+                "game_over": false
+            },
+            {
+                "text": "Problemstaaten aus der Währungsunion ausschließen",
+                "description": "Die Währungsunion ist eine Verbindung, in der alle Staaten Mitglied sind die den Euro als Währung verwenden.",
+                "solution_correct": "",
+                "solution_false": "Die Wirtschaftsleistung des Euros wird International durch den Handel und Größe der Währungsunion bestimmt, weswegen der Wert des Euros dauerhaft sinken würde.",
+                "interval_start": 0,
+                "interval_end": 0,
+                "value_correct": 0,
+                "value_false": 0,
+                "game_over": true
+            }
+        ]
+    },
+    {
+        "question": "Welche Maßnahme muss das EZB-Direktorium zur Erreichung der Preisniveaustabilität umsetzen?",
+        "answer": [
+            {
+                "text": "Repo-Zinssatz erhöhen",
+                "description": "Der Repo-Zinssatz ist für die Verzinsung der Repo Geschäfte zuständig. Die EZB kann Kredite vergeben die mit Wertpapieren besichert und später in voller Summe + dem Repo-Zinssatz zurückgezahlt werden müssen.",
+                "solution_correct": "Für die Verringerung der Geldmenge, kann die EZB den sogenannten Repo- Zinssatz anheben, welcher die Verzinsung bei den Repo- Geschäften darstellt. Die EZB kann Kredite vergeben die mit Wertpapieren besichert und später in voller Summe + dem Repo- Zinssatz zurückgezahlt werden müssen. Allerdings ist dies nur in Zeiten einer hohen Inflationsrate von Nöten und bewirkt während einer Deflation den genau gegenteiligen Effekt, eine Steigerung der Inflationsrate.",
+                "solution_false": "Für die Verringerung der Geldmenge, kann die EZB den sogenannten Repo- Zinssatz anheben, welcher die Verzinsung bei den Repo- Geschäften darstellt. Die EZB kann Kredite vergeben die mit Wertpapieren besichert und später in voller Summe + dem Repo- Zinssatz zurückgezahlt werden müssen. Allerdings ist dies nur in Zeiten einer hohen Inflationsrate von Nöten und bewirkt während einer Deflation den genau gegenteiligen Effekt, eine Steigerung der Inflationsrate.",
+                "interval_start": 2,
+                "interval_end": 100,
+                "value_correct": -0.5,
+                "value_false": 1.2,
+                "game_over": false
+            },
+            {
+                "text": "Leitzins auf 0% setzen",
+                "description": "Der Leitzins ist ein geldpolitisches Instrument der EZB, welches den Preis zu dem Banken Kredite bekommen bestimmt und somit auch das im Umlauf befindliche Geld.",
+                "solution_correct": "Den Leitzins auf 0% zu setzen ist nur im Falle einer bei nahen oder Preisniveaustabilität sinnvoll, da sich die Inflationsrate kaum bis garnicht verändert und dies auch nicht muss. Im Falle einer sehr hohen Inflation hat dies den Gegenteiligen Effekt, da ein Leitzins von 0% in der Situation die Inflation nicht ausbremsen kann, da das Wachstum umso schneller ist, desto höher die Inflation ist steigt.",
+                "solution_false": "Den Leitzins auf 0% zu setzen ist nur im Falle einer bei nahen oder Preisniveaustabilität sinnvoll, da sich die Inflationsrate kaum bis garnicht verändert und dies auch nicht muss. Im Falle einer sehr hohen Inflation hat dies den Gegenteiligen Effekt, da ein Leitzins von 0% in der Situation die Inflation nicht ausbremsen kann, da das Wachstum umso schneller ist, desto höher die Inflation ist steigt.",
+                "interval_start": -100,
+                "interval_end": 2,
+                "value_correct": 1,
+                "value_false": 1.5,
+                "game_over": false
+            },
+            {
+                "text": "Neuwahlen des EZB-Direktoriums",
+                "description": "Das EZB-Direktorium ist die höchste Instanz in der EZB, welche die wichtigsten Entscheidungen trifft.",
+                "solution_correct": "",
+                "solution_false": "Neuwahlen des EZB-Direktoriums würde weder einer Inflation noch einer Deflation entgegenwirken, sondern nur wertvolle Zeit und den Handlungsspielraum verkleinern.",
+                "interval_start": 100,
+                "interval_end": -100,
+                "value_correct": 0,
+                "value_false": 1.5,
+                "game_over": false
+            }
+        ]
+    },
+    {
+        "question": "Welche Maßnahme muss das EZB-Direktorium zur Erreichung der Preisniveaustabiliät umsetzen?",
+        "answer": [
+            {
+                "text": "Leitzins auf 10% erhöhen",
+                "description": "Das EZB- Direktorium ist die höchste Instanz in der EZB, welche die wichtigsten Entscheidungen trifft.",
+                "solution_correct": "Große Leitzinserhöhungen sind nicht immer die beste Maßnahme zur Inflationsbekämpfung, da Inflation nicht zwingend und ausschließlich monetär bedingt ist. Zudem ist ein EU weiter Eingriff in diesem Maßstab nicht zielgerichtet, sondern trifft willkürlich den Geldstrom und kann große Unvorhergesehene Nebenwirkungen oder sogar den gegenteiligen Effekt erzeugen.",
+                "solution_false": "Den Leitzins anzuheben ist eine Maßnahme zur Minderung der Geldmenge und somit eine Deflationäre Maßnahme, allerdings macht es nur bei einer verhältnismäßig hohen Inflationsrate Sinn, sowie nicht bei einer Deflation.",
+                "interval_start": 3,
+                "interval_end": 100,
+                "value_correct": -1.5,
+                "value_false": -3,
+                "game_over": false
+            },
+            {
+                "text": "Geldmenge erhöhen",
+                "description": "Die Geldmenge gibt die im Umlauf befindliche Summe des Geldes an.",
+                "solution_correct": "Die Geldmenge zu erhöhen kann Lediglich bei einer monetären Deflation von Nutzen sein, während diese Maßnahme bei einer Deflation das Gegenteil erreicht.",
+                "solution_false": "Die Geldmenge zu erhöhen kann Lediglich bei einer monetären Deflation von Nutzen sein, während diese Maßnahme bei einer Deflation das Gegenteil erreicht.",
+                "interval_start": -100,
+                "interval_end": 0,
+                "value_correct": 0.5,
+                "value_false": 1.5,
+                "game_over": false
+            },
+            {
+                "text": "Mindestreserve anheben",
+                "description": "Die Mindestreserve stellt die Geldmenge dar die eine Geschäftsbank in Zentralbankgeld, auf dem Zentralkonto, als Kunde der EZB besitzen muss.",
+                "solution_correct": "Die Mindestreserve Pflicht kann zur Nutzung der Geldabschöpfung genutzt werden, weswegen sie während einer Inflation und nicht bei einer Deflation genutzt werden kann, da es dort den Gegenteiligen Effekt hervorruft.",
+                "solution_false": "Die Mindestreserve Pflicht kann zur Nutzung der Geldabschöpfung genutzt werden, weswegen sie während einer Inflation und nicht bei einer Deflation genutzt werden kann, da es dort den Gegenteiligen Effekt hervorruft.",
+                "interval_start": 0,
+                "interval_end": 100,
+                "value_correct": -1,
+                "value_false": -0.5,
+                "game_over": false
+            }
+        ]
+    },
+    {
+        "question": "Welche Maßnahme muss die Nationalbank zur Erreichung der Preisniveaustabilität umsetzen?",
+        "answer": [
+            {
+                "text": "Leitzinsen senken",
+                "description": "Der Leitzins, auch als Zentralbankzins bezeichnet, ist der Prozentsatz, zu dem die Zentralbank Kredite an die Geschäftsbanken vergibt. Dieser Zinssatz dient als Orientierung für die Kreditkonditionen am Markt und beeinflusst damit die Kreditvergabe und die Wirtschaftsentwicklung.",
+                "solution_correct": "Wenn die Leitzinsen niedriger sind, wird es für Unternehmen und Verbraucher günstiger, Kredite aufzunehmen. Dadurch erhöht sich die Nachfrage nach Krediten, was wiederum die Nachfrage nach Gütern und Dienstleistungen ankurbelt. Unternehmen können mehr investieren und mehr Beschäftigte einstellen, was wiederum die Wirtschaft anheizt. Auch die Konsumenten haben mehr Geld zur Verfügung, was die Nachfrage nach Gütern und Dienstleistungen steigert.",
+                "solution_false": "Das Senken von Leitzinsen während einer Inflation kann schlecht sein, weil es die Inflation noch weiter anheizen kann. Wenn die Leitzinsen niedriger sind, wird es für Unternehmen und Verbraucher günstiger, Kredite aufzunehmen. Dadurch erhöht sich die Nachfrage nach Krediten, was wiederum die Nachfrage nach Gütern und Dienstleistungen ankurbelt. Dies führt zu höheren Preisen, da die Produktionskapazitäten begrenzt sind. Eine höhere Nachfrage führt zu einer Verknappung von Gütern und Dienstleistungen und dazu, dass die Unternehmen die Preise erhöhen können.",
+                "interval_start": -100,
+                "interval_end": 2,
+                "value_correct": 0.5,
+                "value_false": 0.4,
+                "game_over": false
+            },
+            {
+                "text": "Staatsanleihen verkaufen",
+                "description": "Finanzmarktinterventionen beinhalten Maßnahmen, um den Finanzmarkt zu beeinflussen. Eine der häufigsten Finanzmarktinterventionen ist der Kauf oder Verkauf von Staatsanleihen.",
+                "solution_correct": "Wenn die Nationalbank Staatsanleihen verkauft, reduziert sie die Nachfrage nach diesen Wertpapieren und erhöht damit die Zinsen, die die Regierung für ihre Kredite zahlen muss. Dies kann dazu beitragen, die Inflation zu dämpfen, indem es teurer für Unternehmen und Konsumenten wird, Kredite aufzunehmen.",
+                "solution_false": "Wenn die Nationalbank Staatsanleihen verkauft, erhöht sie die Zinsen, was die Kreditaufnahme für Unternehmen und Konsumenten erschwert und somit die Wirtschaft beeinträchtigen kann. Dies kann die Deflation sogar verschlimmern und es schwieriger machen, die Wirtschaft wieder in Schwung zu bringen.",
+                "interval_start": 2,
+                "interval_end": 100,
+                "value_correct": -0.6,
+                "value_false": -0.5,
+                "game_over": false
+            },
+            {
+                "text": "Vorstand absetzen",
+                "description": "Der Vorstand der Nationalbank ist das leitende Gremium, das für die Umsetzung der politischen Ziele und Aufgaben der Nationalbank verantwortlich ist.",
+                "solution_correct": "",
+                "solution_false": "Eine Änderung im Vorstand einer Nationalbank kann zu Instabilität und Unsicherheit innerhalb der Organisation führen. Ein neuer Vorstand muss sich erst an seine Aufgaben und Verantwortlichkeiten gewöhnen und das Vertrauen seiner Mitarbeiter und anderer Stakeholder gewinnen.",
+                "interval_start": 100,
+                "interval_end": -100,
+                "value_correct": 0,
+                "value_false": 0.7,
+                "game_over": false
+            }
+        ]
+    },
+    {
+        "question": "Welche Maßnahme muss die Nationalbank zur Erreichung der Preisniveaustabilität umsetzen?",
+        "answer": [
+            {
+                "text": "Leitzinsen erhöhen",
+                "description": "Der Leitzins, auch als Zentralbankzins bezeichnet, ist der Prozentsatz, zu dem die Zentralbank Kredite an die Geschäftsbanken vergibt. Dieser Zinssatz dient als Orientierung für die Kreditkonditionen am Markt und beeinflusst damit die Kreditvergabe und die Wirtschaftsentwicklung.",
+                "solution_correct": "Eine Erhöhung des Leitzinses kann dazu beitragen, die Inflation zu kontrollieren, indem sie die Nachfrage nach Krediten reduziert und somit den Geldfluss in die Wirtschaft einschränkt. Ein höheres Kosten für die Kreditaufnahme kann auch dazu beitragen, dass Unternehmen und Konsumenten weniger ausgeben und somit den Druck auf die Preise verringern.",
+                "solution_false": "Es ist nicht sinnvoll, die Leitzinsen während einer Deflation zu erhöhen. Eine Erhöhung der Leitzinsen würde in dieser Situation dazu beitragen, die Nachfrage nach Krediten weiter zu reduzieren und somit den Geldfluss in die Wirtschaft einzuschränken, was die Deflation verschlimmern könnte.",
+                "interval_start": 2,
+                "interval_end": 100,
+                "value_correct": -0.5,
+                "value_false": -0.4,
+                "game_over": false
+            },
+            {
+                "text": "Regulierung und Überwachung von Banken und Finanzinstituten",
+                "description": "Die Regulierung und Überwachung von Banken und Finanzinstituten ist ein wichtiger Bestandteil der Maßnahmen, die die Nationalbank zur Erreichung der Preisniveaustabilität einleiten kann. Banken und Finanzinstitute sind wichtige Akteure im Finanzsystem und haben einen direkten Einfluss auf die Wirtschaft.",
+                "solution_correct": "Durch die Regulierung und Überwachung kann sichergestellt werden, dass Banken und Finanzinstitute ihre Geschäfte auf eine verantwortungsvolle und stabile Art und Weise ausführen, was die Stabilität des Finanzsystems garantiert. Die Regulierung und Überwachung kann auch verhindern, dass Banken und Finanzinstitute unangemessenen Risiken ausgesetzt werden, die das Finanzsystem und die Wirtschaft insgesamt gefährden können.",
+                "solution_false": "",
+                "interval_start": -100,
+                "interval_end": 100,
+                "value_correct": -1,
+                "value_false": 0,
+                "game_over": false
+            },
+            {
+                "text": "Unterstützung unverantwortlicher Kreditvergabepraktiken",
+                "description": "Wenn die Nationalbank unverantwortliche Kreditvergabepraktiken unterstützt, kann dies zu einer Überversorgung an Krediten führen, die sich wiederum auf das Finanzsystem und die Wirtschaft auswirken kann.",
+                "solution_correct": "",
+                "solution_false": "Die Unterstützung unverantwortlicher Kreditvergabepraktiken durch die Nationalbank ist ein potenzielles Problem, das sich negativ auf die Erreichung der Preisniveaustabilität auswirken kann.",
+                "interval_start": 0,
+                "interval_end": 0,
+                "value_correct": 0,
+                "value_false": 0,
+                "game_over": true
+            }
+        ]
+    },
+    {
+        "question": "Welche Maßnahmen kann die Nationalbank zur Erreichung der Preisniveaustabilität umsetzten?",
+        "answer": [
+            {
+                "text": "Abschaffung von Regulierungen für Banken",
+                "description": "Die Bankenregulierung stellt die eine wichtige Aufgabe der Nationalbank dar, sie ist für die Instandhaltung des Finanzsystems und Erhalt Finanzpolitischer Akteure und Strukturen verantwortlich.",
+                "solution_correct": "",
+                "solution_false": "Die Bankenregulierung ist fundamental für den Erhalt eines funktionierenden und geregelten Bankensystems.",
+                "interval_start": 0,
+                "interval_end": 0,
+                "value_correct": 0,
+                "value_false": 0,
+                "game_over": true
+            },
+            {
+                "text": "Geldmengenausweitung",
+                "description": "Die Nationalbank kann die Geldmenge erhöhen, was dazu führen kann, dass Unternehmen mehr Geld zur Verfügung haben, um in neue Investitionen zu investieren und mehr Arbeitsplätze zu schaffen.",
+                "solution_correct": "Die Geldmenge zu Erhöhen ist bei einer niedrigen Inflationsrate ratsam, weil dadurch der Geldstrom stabilisiert und die Wirtschaftsleistung gefördert werden kann.",
+                "solution_false": "Die Geldmenge bei einer erhöhten Inflationsrate zu erhöhen, kann nicht nur Inflation verstärken, sondern auch den Geldstrom und die Wechselkurse der Währung stark belasten.",
+                "interval_start": -100,
+                "interval_end": 2,
+                "value_correct": 1.3,
+                "value_false": 2.2,
+                "game_over": false
+            },
+            {
+                "text": "Verbesserung der Finanzierungsbedingungen",
+                "description": "Die Verbesserung der Finanzierungsbedingungen bezieht sich auf Maßnahmen, die es Unternehmen, Konsumenten oder Regierungen ermöglichen, leichter an Kapital zu gelangen oder günstigere Kreditbedingungen zu erhalten.",
+                "solution_correct": "Die Nationalbank kann die Refinanzierungsbedingungen verbessern, indem sie den Banken mehr Kredite zu niedrigeren Zinsen zur Verfügung stellt. Dadurch können Unternehmen leichter an Investitionskapital kommen, wodurch die Investitionen gestärkt werden.",
+                "solution_false": "",
+                "interval_start": -100,
+                "interval_end": 100,
+                "value_correct": -1.2,
+                "value_false": 0,
+                "game_over": false
+            }
+        ]
+    },
+    {
+        "question": "Welche Maßnahmen kann die Nationalbank zur Erreichung der Preisniveaustabilität umsetzten?",
+        "answer": [
+            {
+                "text": "Investitionen fördern",
+                "description": "Die Nationalbank kann Anreize schaffen, um Unternehmen zu ermutigen, mehr in Forschung und Entwicklung zu investieren, um innovative Produkte und Dienstleistungen zu entwickeln.",
+                "solution_correct": "Um die Wirtschaftsleistung eines Landes in einer schwachen Konjunkturphase oder zur allgemeinen Steigerung der Gesamtwirtschaft anzukurbeln, kann die Nationalbank Anreize für Unternehmen bieten und so die Investitionen fördern.",
+                "solution_false": "",
+                "interval_start": -100,
+                "interval_end": 100,
+                "value_correct": -1,
+                "value_false": 0,
+                "game_over": false
+            },
+            {
+                "text": "Änderung des Devisenkurses",
+                "description": "Die Nationalbank kann Devisenkurse ändern, um den Handel zu fördern und die Wettbewerbsfähigkeit des Landes zu stärken.",
+                "solution_correct": "Eine Änderung des Devisenkurses kann zur Konjunktursteigerung oder zur Steigerung der Wettbewerbsfähigkeit von Exporteuren beitragen und bei einer geringen Inflation, zur Steigerung der Wirtschaftsleistung beitragen.",
+                "solution_false": "",
+                "interval_start": -100,
+                "interval_end": 100,
+                "value_correct": -0.8,
+                "value_false": 0,
+                "game_over": false
+            },
+            {
+                "text": "Unterstützung unmoralischer oder illegaler Geschäftspraktiken",
+                "description": "Unmoralische Geschäftspraktiken beziehen sich auf Handlungen, die gegen moralische oder ethische Grundsätze verstoßen, aber nicht unbedingt gegen das Gesetz. Illegale Geschäftspraktiken hingegen beziehen sich auf Handlungen, die gegen das Gesetz verstoßen. Dabei ist wichtig zu beachten, dass unmoralische und illegale Geschäftspraktiken sowohl dem Unternehmen als auch den Kunden, den Mitarbeitern und der Gesellschaft insgesamt schaden können.",
+                "solution_correct": "",
+                "solution_false": "Die Sicherheit des Finanzsystems und dessen Schutz werden durch Faktoren wie die Stabilität des Systems gewährleistet. Dies kann nicht durch Korruption, Intransparenz oder anderer externer Faktoren erreicht werden.",
+                "interval_start": 0,
+                "interval_end": 0,
+                "value_correct": 0,
+                "value_false": 0,
+                "game_over": true
+            }
+        ]
+    },
+    {
+        "question": "Welche Maßnahmen soll die EU umsetzten um die Preisniveaustabilität umzusetzen?",
+        "answer": [
+            {
+                "text": "Gaspreisdeckel festlegen",
+                "description": "Der Gaspreisdeckel beschränkt den Gaspreis, um die Bürger und die Wirtschaft zu entlasten.",
+                "solution_correct": "Durch die Beschränkung des Gaspreises kann der Gaspreis nicht mehr steigen, dadurch können die Energiepreise nicht steigen. Durch gleichbleibende Preise sinkt die Inflationsrate.",
+                "solution_false": "Durch die Beschränkung des Gaspreises kann der Gaspreis nicht mehr steigen, dadurch können die Energiepreise nicht steigen. Durch gleichbleibende Preise sinkt die Inflationsrate.",
+                "interval_start": 2,
+                "interval_end": 100,
+                "value_correct": -1,
+                "value_false": -1,
+                "game_over": false
+            },
+            {
+                "text": "Zölle senken",
+                "description": "Durch die Senkung von Zöllen, können Produkte leichter in die EU importiert werden.",
+                "solution_correct": "Durch Senkung der Zölle, werden Importprodukte günstiger, also sinkt die Inflationsrate.",
+                "solution_false": "Durch Senkung der Zölle, werden Importprodukte günstiger, also sinkt die Inflationsrate.",
+                "interval_start": 2,
+                "interval_end": 100,
+                "value_correct": -1,
+                "value_false": -1,
+                "game_over": false
+            },
+            {
+                "text": "DEXIT",
+                "description": "Deutschland soll die EU verlassen, um unabhängiger zu werden.",
+                "solution_correct": "",
+                "solution_false": "Durch den „DEXIT“ bricht wichtiger Handel ab, also werden Importgüter teurer, die Inflationsrate steigt.",
+                "interval_start": 100,
+                "interval_end": -100,
+                "value_correct": 0,
+                "value_false": 12,
+                "game_over": false
+            }
+        ]
+    }
+]

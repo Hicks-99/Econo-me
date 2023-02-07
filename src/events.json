@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Wohnungsnot",
+        "description": "Die Mieten steigen extrem. Durch knappe Wohnungsflächen in Großstädten und vielen Zuzügen kommt es zu einem Wohnngsmangel.",
+        "value": 0.3
+    },
+    {
+        "name": "Mangelnde Investitionen",
+        "description": "Niemand will investieren, da man auf ein niedrigeren Preis hofft. Dadurch werden keine Kredite aufgenommen.",
+        "value": -1
+    },
+    {
+        "name": "Krieg",
+        "description": "Es bricht ein Krieg aus, durch Sanktionen der EU steigen die Preise.",
+        "value": 1.5
+    },
+    {
+        "name": "Suez-Kanal",
+        "description": "Durch ein feststeckendes Schiff im Suez-Kanal kommt es zu Güter-Knappheit.",
+        "value": 0.5
+    },
+    {
+        "name": "Sinkende Geldmenge",
+        "description": "Durch hohe Inflationsrate in einigen Sektoren verschuldet sich keiner mehr, die Geldmenge sinkt.",
+        "value": -0.7
+    },
+    {
+        "name": "Autoimportkrise",
+        "description": "Durch Lieferengpässe in China können weniger Autos exportiert werden.",
+        "value": 0.5
+    },
+    {
+        "name": "Der Dollar verliert an Wert",
+        "description": "Durch Entwertung des US-Dollars, sinkt der Wechselkurs.",
+        "value": 0.7
+    },
+    {
+        "name": "Wettbewerbszuwachs",
+        "description": "Der Wettbewerb in verschiedenen Sektoren steigt.",
+        "value": -0.5
+    }
+]
