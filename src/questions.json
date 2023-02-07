@@ -304,7 +304,7 @@
         ]
     },
     {
-        "question": "Welche Maßnahmen kann die Nationalbank zur Erreichung der Preisniveaustabilität umsetzten?",
+        "question": "Welche Maßnahmen kann die Nationalbank zur Erreichung der Preisniveaustabilität umsetzen?",
         "answer": [
             {
                 "text": "Abschaffung von Regulierungen für Banken",
@@ -342,7 +342,7 @@
         ]
     },
     {
-        "question": "Welche Maßnahmen kann die Nationalbank zur Erreichung der Preisniveaustabilität umsetzten?",
+        "question": "Welche Maßnahmen kann die Nationalbank zur Erreichung der Preisniveaustabilität umsetzen?",
         "answer": [
             {
                 "text": "Investitionen fördern",
@@ -380,39 +380,39 @@
         ]
     },
     {
-        "question": "Welche Maßnahmen soll die EU umsetzten um die Preisniveaustabilität umzusetzen?",
+        "question": "Welche Maßnahme muss die EU zur Erreichung der Preisniveaustabilität umsetzen?",
         "answer": [
             {
                 "text": "Gaspreisdeckel festlegen",
                 "description": "Der Gaspreisdeckel beschränkt den Gaspreis, um die Bürger und die Wirtschaft zu entlasten.",
-                "solution_correct": "Durch die Beschränkung des Gaspreises kann der Gaspreis nicht mehr steigen, dadurch können die Energiepreise nicht steigen. Durch gleichbleibende Preise sinkt die Inflationsrate.",
-                "solution_false": "Durch die Beschränkung des Gaspreises kann der Gaspreis nicht mehr steigen, dadurch können die Energiepreise nicht steigen. Durch gleichbleibende Preise sinkt die Inflationsrate.",
+                "solution_correct": "Durch die Beschränkung des Gaspreises kann der Gaspreis nicht mehr steigen, das führt zu stabilen Energiekosten. Da Energie in der Wirtschaft existentiell ist, sinkt die Inflation dadurch.",
+                "solution_false": "Der Gaspreisdeckel sorgt vor allem für sinkende Energiepreise, deshalb ist diese Maßnahme eher in einer Inflation effektiv. Wenn es zur Deflation kommt, wird diese durch einen Gaspreisdeckel verstärkt.",
                 "interval_start": 2,
                 "interval_end": 100,
-                "value_correct": -1,
+                "value_correct": -0.5,
                 "value_false": -1,
                 "game_over": false
             },
             {
                 "text": "Zölle senken",
-                "description": "Durch die Senkung von Zöllen, können Produkte leichter in die EU importiert werden.",
-                "solution_correct": "Durch Senkung der Zölle, werden Importprodukte günstiger, also sinkt die Inflationsrate.",
-                "solution_false": "Durch Senkung der Zölle, werden Importprodukte günstiger, also sinkt die Inflationsrate.",
-                "interval_start": 2,
+                "description": "Die Senkung der Zölle macht es leichter und günstiger, Produkte zu importieren.",
+                "solution_correct": "Durch die Senkung der Zölle können Produkte günstiger angeboten werden, was zur Folge hat, das die Inflationsrate sinkt und die Preisniveaustabilität gewährt wird.",
+                "solution_false": "Durch die Senkung der Zölle können Produkte günstiger angeboten werden, in einer Deflation ist dies allerdings nicht förderlich, da der Geldwert durch günstigere Preise Steigen wird.",
+                "interval_start": 0,
                 "interval_end": 100,
                 "value_correct": -1,
-                "value_false": -1,
+                "value_false": -3,
                 "game_over": false
             },
             {
                 "text": "DEXIT",
-                "description": "Deutschland soll die EU verlassen, um unabhängiger zu werden.",
+                "description": "Deutschlands Verlassen der EU ohne Abkommen, macht Deutschland unabhängiger.",
                 "solution_correct": "",
-                "solution_false": "Durch den „DEXIT“ bricht wichtiger Handel ab, also werden Importgüter teurer, die Inflationsrate steigt.",
+                "solution_false": "Die EU ist eine wichtige Union, diese ohne Handelsabkommen zu verlassen, sorgt für eine Wirtschaft, die deutlich schlechter floriert.",
                 "interval_start": 100,
                 "interval_end": -100,
                 "value_correct": 0,
-                "value_false": 12,
+                "value_false": 8,
                 "game_over": false
             }
         ]
