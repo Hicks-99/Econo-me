@@ -66,7 +66,7 @@
         <div class="text-white text-center pb-8">
             <h1 class="text-6xl font-semibold mb-10">Nun sind Sie am Zug!</h1>
             <p class="text-2xl mb-4 before:content-[open-quote] before:text-4xl before:font-bold before:pr-2 after:content-[close-quote] after:text-4xl after:font-bold after:pl-2">
-                Sie haben die Aufgabe die wirtschaftliche Lage Ihres fiktiven Staates wieder in den Griff zu bekommen. Haben Sie die Inflation im Griff oder stürzen Sie den Staat in den Ruin?
+                Sie haben die Aufgabe die wirtschaftliche Lage Ihres Staates wieder in den Griff zu bekommen. Haben Sie die Inflation im Griff oder stürzen Sie den Staat in den Ruin?
             </p>
             <p class="text-sm before:content-['*'] before:text-xl before:font-bold before:pr-2">
                 Das hier zu sehende Szenario ist fiktiv. Jeglicher Bezug auf die reale Welt dient zur Veranschaulichung

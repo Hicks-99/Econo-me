@@ -4,9 +4,9 @@
         "answer": [
             {
                 "text": "In Bauprojekte investieren",
-                "description": "Durch die Investition in verschiedene Bauprojekte lässt sich der Verlauf der Konjunktur beeinflussen. Mögliche Bauprojekte sind zum Beispiel auch Straßen oder Autobahnen. ",
+                "description": "Durch die Investition in verschiedene Bauprojekte lässt sich der Verlauf der Konjunktur beeinflussen. Mögliche Bauprojekte sind zum Beispiel Wohnungen oder Autobahnen. ",
                 "solution_correct": "Staaten können die Konjunktur auch ohne eine entsprechende Geldpolitik ankurbeln. So hat der Staat zum Beispiel die Möglichkeit, neue Bauprojekte zu unterstützen. Auf diese Weise gibt es eine höhere Beschäftigung und dadurch wiederum höheren Konsum sowie höhere Steuereinnahmen.",
-                "solution_false": "Investitionen in verschiedene Bauprojekte sind vor allem bei einer Deflation effektiv. Auf diese Weise gibt es eine höhere Beschäftigung und dadurch wiederum höheren Konsum sowie höhere Steuereinnahmen.",
+                "solution_false": "Investitionen in verschiedene Bauprojekte sind vor allem bei einer Deflation effektiv. Auf diese Weise gibt es eine höhere Beschäftigung und dadurch wiederum höheren Konsum, sowie höhere Steuereinnahmen.",
                 "interval_start": -100,
                 "interval_end": 0,
                 "value_correct": 0.5,
@@ -26,7 +26,7 @@
             },
             {
                 "text": "Import/Export mit anderen Ländern stoppen",
-                "description": "Durch das Stoppen des Imports/Exports mit anderen Ländern wird jeglicher Kontakt mit den Handelspartnern abgebrochen.",
+                "description": "Durch das Stoppen des Imports/Exports mit anderen Ländern, wird jeglicher Kontakt mit den Handelspartnern abgebrochen.",
                 "solution_correct": "",
                 "solution_false": "Falsch! Der Handel mit anderen Ländern ist essenziell wichtig für die Wirtschaft des eigenen Staates. Wenn kein Handel existiert, bricht die Wirtschaft zusammen.",
                 "interval_start": 0,
@@ -80,7 +80,7 @@
         "answer": [
             {
                 "text": "Sparpolitik betreiben",
-                "description": "Wenn der Staat Sparpolitik betreibt, wird darauf abgezielt Verbrauch und Staatskosten zu beschränken.",
+                "description": "Wenn der Staat Sparpolitik betreibt, wird darauf abgezielt, Verbrauch und Staatskosten zu beschränken.",
                 "solution_correct": "Während einer Inflation Staatsausgaben zu beschränken ist sehr effizient. Der Staat hat somit mehr Möglichkeiten der Inflation entgegenzuwirken.",
                 "solution_false": "Während einer Deflation Staatsausgaben zu beschränken ist kontraproduktiv. Dort müsste der Staat mehr Geld ausgeben, um der Deflation entgegenzuwirken.",
                 "interval_start": 2,
@@ -129,7 +129,7 @@
             },
             {
                 "text": "Leitzins auf 2,5% erhöhen",
-                "description": "Die EZB hat seit dem 21.12.2022 den Leitzins auf 2,5% angehoben, was einem Prozess, der korrelativ zur Inflation verlief vorherging. Der Leitzins am Ende des Jahres 2022 ist das Resultat einer moderaten Handhabung und Abschätzung von Leitzins-Inflation Verhältnis, daher konnte die EZB infolgedessen die Inflation unter Kontrolle bringen bzw. eindämmen.",
+                "description": "Der Leitzins ist der, von der Zentralbank festgelegte Referenzsatz für die Kreditvergabe, der als Basis für weitere Zinsen dient und die Geldpolitik beeinflusst.",
                 "solution_correct": "Den Leitzins auf 2,5% zu setzen ist im Falle einer niedrigen Inflationsrate ratsam, während bei einer Deflation der gegenteilige Effekt eintritt und die Deflation verstärkt.",
                 "solution_false": "Den Leitzins auf 2,5% zu setzen ist im Falle einer niedrigen Inflationsrate ratsam, während bei einer Deflation der gegenteilige Effekt eintritt und die Deflation verstärkt.",
                 "interval_start": 2,
@@ -156,9 +156,9 @@
         "answer": [
             {
                 "text": "Repo-Zinssatz erhöhen",
-                "description": "Der Repo-Zinssatz ist für die Verzinsung der Repo Geschäfte zuständig. Die EZB kann Kredite vergeben die mit Wertpapieren besichert und später in voller Summe + dem Repo-Zinssatz zurückgezahlt werden müssen.",
-                "solution_correct": "Für die Verringerung der Geldmenge, kann die EZB den sogenannten Repo- Zinssatz anheben, welcher die Verzinsung bei den Repo- Geschäften darstellt. Die EZB kann Kredite vergeben die mit Wertpapieren besichert und später in voller Summe + dem Repo- Zinssatz zurückgezahlt werden müssen. Allerdings ist dies nur in Zeiten einer hohen Inflationsrate von Nöten und bewirkt während einer Deflation den genau gegenteiligen Effekt, eine Steigerung der Inflationsrate.",
-                "solution_false": "Für die Verringerung der Geldmenge, kann die EZB den sogenannten Repo- Zinssatz anheben, welcher die Verzinsung bei den Repo- Geschäften darstellt. Die EZB kann Kredite vergeben die mit Wertpapieren besichert und später in voller Summe + dem Repo- Zinssatz zurückgezahlt werden müssen. Allerdings ist dies nur in Zeiten einer hohen Inflationsrate von Nöten und bewirkt während einer Deflation den genau gegenteiligen Effekt, eine Steigerung der Inflationsrate.",
+                "description": "Der Repo-Zinssatz ist für die Verzinsung der Repo Geschäfte zuständig. Die EZB kann Kredite vergeben, die mit Wertpapieren besichert und später in voller Summe + dem Repo-Zinssatz zurückgezahlt werden müssen.",
+                "solution_correct": "Für die Verringerung der Geldmenge, kann die EZB den sogenannten Repo- Zinssatz anheben, welcher die Verzinsung bei den Repo- Geschäften darstellt. Die EZB kann Kredite vergeben, die mit Wertpapieren besichert und später in voller Summe + dem Repo- Zinssatz zurückgezahlt werden müssen. Allerdings ist dies nur in Zeiten einer hohen Inflationsrate von Nöten und bewirkt während einer Deflation den genau gegenteiligen Effekt, eine Steigerung der Inflationsrate.",
+                "solution_false": "Für die Verringerung der Geldmenge, kann die EZB den sogenannten Repo- Zinssatz anheben, welcher die Verzinsung bei den Repo- Geschäften darstellt. Die EZB kann Kredite vergeben, die mit Wertpapieren besichert und später in voller Summe + dem Repo- Zinssatz zurückgezahlt werden müssen. Allerdings ist dies nur in Zeiten einer hohen Inflationsrate von Nöten und bewirkt während einer Deflation den genau gegenteiligen Effekt, eine Steigerung der Inflationsrate.",
                 "interval_start": 2,
                 "interval_end": 100,
                 "value_correct": -0.5,
@@ -167,7 +167,7 @@
             },
             {
                 "text": "Leitzins auf 0% setzen",
-                "description": "Der Leitzins ist ein geldpolitisches Instrument der EZB, welches den Preis zu dem Banken Kredite bekommen bestimmt und somit auch das im Umlauf befindliche Geld.",
+                "description": "Der Leitzins ist der von der Zentralbank festgelegte Referenzsatz für die Kreditvergabe, der als Basis für weitere Zinsen dient und die Geldpolitik beeinflusst.",
                 "solution_correct": "Den Leitzins auf 0% zu setzen ist nur im Falle einer bei nahen oder Preisniveaustabilität sinnvoll, da sich die Inflationsrate kaum bis garnicht verändert und dies auch nicht muss. Im Falle einer sehr hohen Inflation hat dies den Gegenteiligen Effekt, da ein Leitzins von 0% in der Situation die Inflation nicht ausbremsen kann, da das Wachstum umso schneller ist, desto höher die Inflation ist steigt.",
                 "solution_false": "Den Leitzins auf 0% zu setzen ist nur im Falle einer bei nahen oder Preisniveaustabilität sinnvoll, da sich die Inflationsrate kaum bis garnicht verändert und dies auch nicht muss. Im Falle einer sehr hohen Inflation hat dies den Gegenteiligen Effekt, da ein Leitzins von 0% in der Situation die Inflation nicht ausbremsen kann, da das Wachstum umso schneller ist, desto höher die Inflation ist steigt.",
                 "interval_start": -100,
@@ -194,7 +194,7 @@
         "answer": [
             {
                 "text": "Leitzins auf 10% erhöhen",
-                "description": "Das EZB- Direktorium ist die höchste Instanz in der EZB, welche die wichtigsten Entscheidungen trifft.",
+                "description": "Der Leitzins beeinflusst die Kosten für Kredite und das Sparverhalten der Verbraucher.",
                 "solution_correct": "Große Leitzinserhöhungen sind nicht immer die beste Maßnahme zur Inflationsbekämpfung, da Inflation nicht zwingend und ausschließlich monetär bedingt ist. Zudem ist ein EU weiter Eingriff in diesem Maßstab nicht zielgerichtet, sondern trifft willkürlich den Geldstrom und kann große Unvorhergesehene Nebenwirkungen oder sogar den gegenteiligen Effekt erzeugen.",
                 "solution_false": "Den Leitzins anzuheben ist eine Maßnahme zur Minderung der Geldmenge und somit eine Deflationäre Maßnahme, allerdings macht es nur bei einer verhältnismäßig hohen Inflationsrate Sinn, sowie nicht bei einer Deflation.",
                 "interval_start": 3,
@@ -216,7 +216,7 @@
             },
             {
                 "text": "Mindestreserve anheben",
-                "description": "Die Mindestreserve stellt die Geldmenge dar die eine Geschäftsbank in Zentralbankgeld, auf dem Zentralkonto, als Kunde der EZB besitzen muss.",
+                "description": "Die Mindestreserve stellt die Geldmenge dar, die eine Geschäftsbank in Zentralbankgeld, auf dem Zentralkonto, als Kunde der EZB besitzen muss.",
                 "solution_correct": "Die Mindestreserve Pflicht kann zur Nutzung der Geldabschöpfung genutzt werden, weswegen sie während einer Inflation und nicht bei einer Deflation genutzt werden kann, da es dort den Gegenteiligen Effekt hervorruft.",
                 "solution_false": "Die Mindestreserve Pflicht kann zur Nutzung der Geldabschöpfung genutzt werden, weswegen sie während einer Inflation und nicht bei einer Deflation genutzt werden kann, da es dort den Gegenteiligen Effekt hervorruft.",
                 "interval_start": 0,
@@ -228,7 +228,7 @@
         ]
     },
     {
-        "question": "Welche Maßnahme muss die Nationalbank zur Erreichung der Preisniveaustabilität umsetzen?",
+        "question": "Welche Maßnahme muss die EZB-Direktorium zur Erreichung der Preisniveaustabilität umsetzen?",
         "answer": [
             {
                 "text": "Leitzinsen senken",
@@ -266,11 +266,11 @@
         ]
     },
     {
-        "question": "Welche Maßnahme muss die Nationalbank zur Erreichung der Preisniveaustabilität umsetzen?",
+        "question": "Welche Maßnahme muss die EZB-Direktorium zur Erreichung der Preisniveaustabilität umsetzen?",
         "answer": [
             {
                 "text": "Leitzinsen erhöhen",
-                "description": "Der Leitzins, auch als Zentralbankzins bezeichnet, ist der Prozentsatz, zu dem die Zentralbank Kredite an die Geschäftsbanken vergibt. Dieser Zinssatz dient als Orientierung für die Kreditkonditionen am Markt und beeinflusst damit die Kreditvergabe und die Wirtschaftsentwicklung.",
+                "description": "Der Leitzins wird von der Zentralbank festgelegt und kann die Wirtschaft stabilisieren oder anregen.",
                 "solution_correct": "Eine Erhöhung des Leitzinses kann dazu beitragen, die Inflation zu kontrollieren, indem sie die Nachfrage nach Krediten reduziert und somit den Geldfluss in die Wirtschaft einschränkt. Ein höheres Kosten für die Kreditaufnahme kann auch dazu beitragen, dass Unternehmen und Konsumenten weniger ausgeben und somit den Druck auf die Preise verringern.",
                 "solution_false": "Es ist nicht sinnvoll, die Leitzinsen während einer Deflation zu erhöhen. Eine Erhöhung der Leitzinsen würde in dieser Situation dazu beitragen, die Nachfrage nach Krediten weiter zu reduzieren und somit den Geldfluss in die Wirtschaft einzuschränken, was die Deflation verschlimmern könnte.",
                 "interval_start": 2,
